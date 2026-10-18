@@ -1,5 +1,5 @@
 {
-    "version": "0.3.21",
+    "version": "0.3.22",
     "description": "Oijoo — 외주 프로젝트 모아보기 · 입찰 도우미",
     "homepage": "https://oijoo.com",
     "license": {
@@ -9,8 +9,8 @@
     "notes": "업데이트는 앱의 업데이트 버튼(scoop update oijoo를 실행)이나 scoop update oijoo로 합니다.",
     "architecture": {
         "64bit": {
-            "url": "https://oijoo.com/download/windows-x64/v/0.3.21#/Oijoo-0.3.21-win-x64.zip",
-            "hash": "13c92fadc5987692be6813195b1b3d87de6aa65d9e9959e2ad1fa8cb2541b1cc"
+            "url": "https://oijoo.com/download/windows-x64/v/0.3.22#/Oijoo-0.3.22-win-x64.zip",
+            "hash": "f858efb62e7366e6ba200fa7aa55bb0f4e2f29fefa28573a69251aad5d7941e3"
         }
     },
     "extract_dir": "Oijoo",
